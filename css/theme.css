@@ -1,0 +1,49 @@
+.header-dark {
+    background-color: black;
+}
+
+.footer-main{
+    background: #000;
+    padding:0;
+}
+
+.footer-main a:hover{
+    color:#2190f1;
+    text-decoration: none;
+}
+
+.footer-content{
+    color: #fff !important;
+    line-height: 1.25rem;
+    padding: 5rem;
+}
+
+.footer-content a{
+    color: #fff;
+}
+
+.footer-content h5{
+    color: #fff;
+}
+
+@media all and (min-width: 960px) and (orientation:landscape) 
+{
+    .footer-content{
+        padding: 5rem 0rem !important;
+    }
+}
+
+
+
+.footer-secondary{
+    background: #fff;
+}
+
+.line-home{
+    border-top: 3px solid #CCA653;
+    margin-left: -3rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: -3rem;
+}
+
